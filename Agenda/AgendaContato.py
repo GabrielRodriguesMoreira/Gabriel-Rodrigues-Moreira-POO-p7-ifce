@@ -120,3 +120,4 @@ Button(root,text="SAIR", font='arial 12 bold',bg='tomato', command = EXIT).place
 
 root.mainloop()
   
+#código usado como base https://data-flair.training/blogs/address-book-in-python/
